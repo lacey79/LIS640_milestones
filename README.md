@@ -107,9 +107,8 @@ The project integrates multiple public datasets:
 
 ## References
 - Vaswani et al. (2017). *Attention is All You Need*.  
-- Wang et al. (2019). *Deep learning framework for influenza trend prediction*.  
-- Azizi et al. (2021). *Self-supervised models in medical imaging*.  
-- Rajkomar et al. (2018). *Multimodal healthcare AI*.  
+- Azizi et al. (2021). *Big self-supervised models advance medical image classification*.  
+- Rajkomar et al. (2018). *Scalable and accurate deep learning with electronic health records*.  
 
 ---
 
