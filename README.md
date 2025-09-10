@@ -2,13 +2,13 @@
 
 **Author:** Lacey Dinh  
 
-This repository contains my personal deep learning project on epidemic forecasting. The goal is to explore how multimodal signals—time-series surveillance data, vaccination and weather reports, and spatial influenza heatmaps—can be combined to build accurate, interpretable models for forecasting influenza outbreaks.
+This repository contains my personal deep learning project on epidemic forecasting. The goal is to explore how multimodal signals such as time-series surveillance data, vaccination and weather reports, and spatial influenza heatmaps can be combined to build accurate, interpretable models for forecasting influenza outbreaks.
 
 ---
 
 ## Motivation
-Influenza epidemics strain healthcare systems annually, leading to high morbidity, mortality, and economic disruption. Accurate and timely forecasts enable better resource allocation, preventive interventions, and preparedness.  
-Traditional statistical models often fall short in capturing complex temporal and spatial dependencies. This project demonstrates how modern deep learning methods—RNNs, Transformers, CNN autoencoders, and cross-modal attention fusion—can advance epidemic forecasting.
+Influenza epidemics strain healthcare systems annually, leading to high morbidity, mortality, and economic disruption. Accurate and timely forecasts enable better resource allocation, preventive interventions, and preparedness.
+Traditional statistical models often fall short in capturing complex temporal and spatial dependencies. This project demonstrates how modern deep learning methods, including RNNs, Transformers, CNN autoencoders, and cross-modal attention fusion, can advance epidemic forecasting.
 
 ---
 
